@@ -1,4 +1,4 @@
-This is the styling code
+
 body {
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
     font-family: sans-serif;
@@ -40,7 +40,7 @@ body {
   
   hr {
     height: 2px;
-    background-color: palevioletred;
+    background-color: brown;
     border-color: brown;
   }
   
